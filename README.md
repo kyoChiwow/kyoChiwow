@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/kyoChiwow/kyoChiwow/refs/heads/main/myBanner%20(1).png"  />
+  <img height="400" src="https://raw.githubusercontent.com/kyoChiwow/kyoChiwow/refs/heads/main/myBanner%20updated%20(1).png"  />
 </div>
 
 ###
