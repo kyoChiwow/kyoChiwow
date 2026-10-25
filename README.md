@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://raw.githubusercontent.com/kyoChiwow/kyoChiwow/main/profile-banner.png" alt="Md. Shafiqul Islam — Full Stack Developer" width="100%"/>
+  <img src="PortfolioBanner.png" alt="Md. Shafiqul Islam — Full Stack Developer" width="100%"/>
 </div>
 
 <div align="center">
