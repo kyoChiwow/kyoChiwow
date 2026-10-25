@@ -1,140 +1,174 @@
-# Md. Shafiqul Islam
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/kyoChiwow/kyoChiwow/main/profile-banner.png" alt="Md. Shafiqul Islam — Full Stack Developer" width="100%"/>
+</div>
 
-### Full Stack Developer | JavaScript • TypeScript • React • Next.js • Node.js
+<div align="center">
 
-I build web applications with thoughtful user experiences, structured backend systems, and practical solutions to real-world problems.
+### Full Stack Developer | Building for the Web
 
-<p align="left">
+**JavaScript · TypeScript · React · Next.js · Node.js**
+
+Turning ideas into web applications, one commit at a time.
+
+<p>
   <a href="https://www.linkedin.com/in/md-shafiqul-islam-web-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://shafiqul-islam-portfolio.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/kyoChiwow">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:shafiqulislamweb101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
+</div>
+
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Md. Shafiqul Islam**, a Bangladesh-based Full Stack Developer interested in building useful, maintainable, and well-structured web applications.
+Hey! I'm **Md. Shafiqul Islam**, a Full Stack Developer from Dhaka, Bangladesh.
 
-My work spans frontend development, backend APIs, authentication, database integration, dashboards, and application workflows.
+I enjoy building web applications that solve practical problems, from interactive frontend experiences to backend APIs and database-driven systems.
 
-- 💻 Building full-stack applications with **React, Next.js, TypeScript, Node.js, and Express.js**.
-- 🛠️ Interested in backend architecture, database design, and scalable application development.
-- 🧩 Enjoy solving problems, debugging, and turning ideas into functional products.
-- 🤖 Exploring AI and automation alongside my software development journey.
-- 🎮 Former competitive FPS esports player with nearly a decade of experience in competitive gaming.
-- 🌏 Based in Dhaka, Bangladesh | Open to remote opportunities and collaboration.
+- 💻 Building with **React, Next.js, TypeScript, Node.js & Express.js**
+- 🔧 Working with REST APIs, authentication, dashboards & database integration
+- 🗄️ Exploring backend architecture, database design & application scalability
+- 🤖 Expanding my knowledge of AI & automation
+- 🎮 Former competitive FPS esports player — gaming taught me discipline, adaptability & how to perform under pressure
+- 🌏 Open to remote opportunities, collaborations & interesting projects
 
-I came into software development after spending years pursuing competitive esports. That experience shaped my approach to discipline, learning, teamwork, and problem-solving.
+My journey into software development came after years in competitive esports. Different arena, different challenges — still plenty of problem-solving.
 
-I'm always looking for opportunities to learn, contribute, and build better software.
+I'm always learning, building, breaking things (hopefully in development), and improving.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. TravelOps — Tour Management System
+### ✈️ TravelOps
+**Tour Management System**
 
-A full-stack tour management platform focused on tour creation, management, filtering, and structured tour planning.
+A full-stack platform for managing tours, planning, and tour-related workflows.
 
-**Highlights**
-- Tour management and filtering workflows.
-- Dynamic forms with image uploads.
-- Form validation using React Hook Form and Zod.
-- REST APIs and MongoDB integration.
+- Tour creation, management & filtering
+- Dynamic forms with image uploads
+- Form validation with React Hook Form & Zod
+- REST API integration with MongoDB
 
-**Tech Stack:** React, TypeScript, Tailwind CSS, ShadCN, Redux Toolkit, RTK Query, React Hook Form, Zod, Node.js, Express.js, MongoDB.
+**Stack:** React · TypeScript · Tailwind CSS · ShadCN · Redux Toolkit · RTK Query · React Hook Form · Zod · Node.js · Express.js · MongoDB
 
-🔗 [Client Side](https://github.com/kyoChiwow) · [Portfolio](https://shafiqul-islam-portfolio.web.app)
+🔗 [Explore my portfolio](https://shafiqul-islam-portfolio.web.app) · [GitHub](https://github.com/kyoChiwow)
 
-### 02. Taher Enterprise — Gas Management System
+---
 
-A full-stack gas management application built to manage products, categories, brands, users, customer quotas, and payment workflows.
+### 🔥 Taher Enterprise
+**Gas Management System**
 
-**Highlights**
-- Authentication and role-based access control.
-- Product and category management.
-- Customer quota management.
-- Image upload and payment workflows.
-- Backend APIs and database-driven application features.
+A full-stack application designed to manage gas products, categories, brands, customer quotas, users, and payment workflows.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, Redis, JWT, Cloudinary, SSLCommerz.
+- Authentication & role-based access control
+- Product, category, brand & user management
+- Customer quota management
+- Image uploads & payment workflows
+- REST APIs and database-driven features
+
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose · Redis · JWT · Cloudinary · SSLCommerz
 
 🔗 [Frontend Repository](https://github.com/kyoChiwow/gas-company-frontend) · [Backend Repository](https://github.com/kyoChiwow/gas-company-backend)
 
-### 03. Insight Innovators — Company Portfolio Platform
+---
 
-A full-stack company portfolio platform developed to showcase software services and projects, with backend authentication and user management.
+### 🌐 Insight Innovators
+**Company Portfolio Platform**
 
-**Highlights**
-- Modern portfolio experience.
-- Animated interface and interactive visual elements.
-- Backend authentication and user management.
+A full-stack company portfolio platform built to showcase software services and projects, with authentication and user management.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Three.js, React Three Fiber, Framer Motion, Node.js, Express.js, MongoDB.
+- Modern portfolio experience
+- Animated interfaces & interactive visual elements
+- Backend authentication & user management
 
-🔗 [GitHub Profile](https://github.com/kyoChiwow) · [Portfolio](https://shafiqul-islam-portfolio.web.app)
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Three.js · React Three Fiber · Framer Motion · Node.js · Express.js · MongoDB
+
+🔗 [GitHub](https://github.com/kyoChiwow) · [Portfolio](https://shafiqul-islam-portfolio.web.app)
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
-</p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
 
 ### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" alt="Node.js, Express.js, MongoDB, PostgreSQL, Redis, Prisma"/>
-</p>
 
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,python" alt="Git, GitHub, Docker, Firebase, Python"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" alt="Node.js, Express, MongoDB, PostgreSQL, Redis, Prisma"/>
 
-**Also working with:** Redux Toolkit, RTK Query, React Hook Form, Zod, ShadCN, Mongoose, Frappe Framework, JWT, OAuth, Cloudinary, and SSLCommerz.
+### Tools & Other Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,firebase,python" alt="Git, GitHub, Docker, Firebase, Python"/>
+
+</div>
+
+**Also familiar with:** Redux Toolkit, RTK Query, React Hook Form, Zod, ShadCN, Mongoose, Frappe Framework, JWT, OAuth, Cloudinary & SSLCommerz.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyoChiwow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoChiwow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kyoChiwow&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kyoChiwow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoChiwow&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=kyoChiwow&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎯 Beyond the Code
+
+Before software development, I spent years competing in FPS esports.
+
+That chapter taught me a lot about consistency, teamwork, staying calm under pressure, and learning from mistakes.
+
+Outside coding, I enjoy gaming, exploring new technologies, and figuring out how things work.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to meaningful collaborations, interesting projects, and software development opportunities.
+Have an interesting project, an opportunity, or just want to talk tech?
 
-If you're building something interesting or would like to connect, feel free to reach out.
+Feel free to reach out.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-shafiqul-islam-web-dev/">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="mailto:shafiqulislamweb101@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Building, learning, improving — one project at a time.</i>
-</p>
+<a href="https://www.linkedin.com/in/md-shafiqul-islam-web-dev/">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shafiqulislamweb101@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+*"Learn. Build. Grow."*
+
+<sub>📍 Dhaka, Bangladesh · Open to remote opportunities</sub>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Fun fact: I fix one bug and somehow discover two new features.</sub>
+</div>
