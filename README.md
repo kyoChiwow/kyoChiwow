@@ -1,78 +1,140 @@
-<div align="center">
-  <img height="400" src="https://raw.githubusercontent.com/kyoChiwow/kyoChiwow/refs/heads/main/myBanner%20updated%20(1).png"  />
-</div>
+# Md. Shafiqul Islam
 
-###
+### Full Stack Developer | JavaScript • TypeScript • React • Next.js • Node.js
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/md-shafiqul-islam-web-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+I build web applications with thoughtful user experiences, structured backend systems, and practical solutions to real-world problems.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md-shafiqul-islam-web-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="wa.me/+8801686153306" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://shafiqul-islam-portfolio.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.facebook.com/aronnorahman.shawpno/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://github.com/kyoChiwow">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:shafiqulislamweb101@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:shafiqulislamweb101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-<h1 align="center">Hello there, <br>Md. Shafiqul Islam here,</h1>
+## 👋 About Me
 
-###
+I'm **Md. Shafiqul Islam**, a Bangladesh-based Full Stack Developer interested in building useful, maintainable, and well-structured web applications.
 
-<h3 align="left">👩‍💻  About Me</h3>
+My work spans frontend development, backend APIs, authentication, database integration, dashboards, and application workflows.
 
-###
+- 💻 Building full-stack applications with **React, Next.js, TypeScript, Node.js, and Express.js**.
+- 🛠️ Interested in backend architecture, database design, and scalable application development.
+- 🧩 Enjoy solving problems, debugging, and turning ideas into functional products.
+- 🤖 Exploring AI and automation alongside my software development journey.
+- 🎮 Former competitive FPS esports player with nearly a decade of experience in competitive gaming.
+- 🌏 Based in Dhaka, Bangladesh | Open to remote opportunities and collaboration.
 
-<p align="left">I am a Front-End Web Developer, currently I reside at Dhaka, Banagladesh, working really hard to become a very skilled Web Developer.<br><br>- 🔭 I’m currently working as a Front-End Web Developer.<br>- 📚 I'm currently learning React, MongoDb.<br>- ⚡ In my free time I love to play games. It has always been my go to thing when It comes to relaxing.<br><br>I used to be a professional competitive FPS player. I have pursued that for almost a decade. Unfortunately, the current competitive scene in South Asia isn't worthy of pursuing a career in it. So I chose something that gives me the same amount of thrill "Web Development". I might be new in this particular field, But I am a fast learner, adaptable and willing to pick-up new skills and habits to make myself better. <br><br>So take a look at my profile, I am sure you will find me useful, skilled and perfect for your projects.</p>
+I came into software development after spending years pursuing competitive esports. That experience shaped my approach to discipline, learning, teamwork, and problem-solving.
 
-###
+I'm always looking for opportunities to learn, contribute, and build better software.
 
-<div align="center">
-  <img height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFvdDR5ZjEwb3p6dXRuMzNxZGlsM2ljMWtlZDA5cWR2a214MnJiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vcdbi5o470i9FACaZO/giphy.gif"  />
-</div>
+---
 
-###
+## 🚀 Featured Projects
 
-<h3 align="left">🛠 Language and tools</h3>
+### 01. TravelOps — Tour Management System
 
-###
+A full-stack tour management platform focused on tour creation, management, filtering, and structured tour planning.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
+**Highlights**
+- Tour management and filtering workflows.
+- Dynamic forms with image uploads.
+- Form validation using React Hook Form and Zod.
+- REST APIs and MongoDB integration.
 
-###
+**Tech Stack:** React, TypeScript, Tailwind CSS, ShadCN, Redux Toolkit, RTK Query, React Hook Form, Zod, Node.js, Express.js, MongoDB.
 
-<h3 align="left">🔥   My Stats :</h3>
+🔗 [Client Side](https://github.com/kyoChiwow) · [Portfolio](https://shafiqul-islam-portfolio.web.app)
 
-###
+### 02. Taher Enterprise — Gas Management System
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyoChiwow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyoChiwow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kyoChiwow&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+A full-stack gas management application built to manage products, categories, brands, users, customer quotas, and payment workflows.
 
-###
+**Highlights**
+- Authentication and role-based access control.
+- Product and category management.
+- Customer quota management.
+- Image upload and payment workflows.
+- Backend APIs and database-driven application features.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, Redis, JWT, Cloudinary, SSLCommerz.
+
+🔗 [Frontend Repository](https://github.com/kyoChiwow/gas-company-frontend) · [Backend Repository](https://github.com/kyoChiwow/gas-company-backend)
+
+### 03. Insight Innovators — Company Portfolio Platform
+
+A full-stack company portfolio platform developed to showcase software services and projects, with backend authentication and user management.
+
+**Highlights**
+- Modern portfolio experience.
+- Animated interface and interactive visual elements.
+- Backend authentication and user management.
+
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Three.js, React Three Fiber, Framer Motion, Node.js, Express.js, MongoDB.
+
+🔗 [GitHub Profile](https://github.com/kyoChiwow) · [Portfolio](https://shafiqul-islam-portfolio.web.app)
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS"/>
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,prisma" alt="Node.js, Express.js, MongoDB, PostgreSQL, Redis, Prisma"/>
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,python" alt="Git, GitHub, Docker, Firebase, Python"/>
+</p>
+
+**Also working with:** Redux Toolkit, RTK Query, React Hook Form, Zod, ShadCN, Mongoose, Frappe Framework, JWT, OAuth, Cloudinary, and SSLCommerz.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kyoChiwow&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoChiwow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kyoChiwow&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to meaningful collaborations, interesting projects, and software development opportunities.
+
+If you're building something interesting or would like to connect, feel free to reach out.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shafiqul-islam-web-dev/">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:shafiqulislamweb101@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, improving — one project at a time.</i>
+</p>
